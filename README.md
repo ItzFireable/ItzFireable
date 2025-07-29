@@ -2,7 +2,7 @@
 
 Hello, I'm Kimi, also known as Fireable.
 
-- I'm a 19 year old developer, who works on various things in JavaScript, Haxe and Lua.
+- I'm a 21 year old developer, who works on various things in JavaScript/TypeScript, Haxe and Lua.
 - I’m currently working on a bunch of miscellaneous projects and Friday Night Funkin' mods.
 - You can find my portfolio at https://fireable.me
 
